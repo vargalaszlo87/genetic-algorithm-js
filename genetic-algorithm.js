@@ -29,7 +29,6 @@
  */
 
 
-
 /*!
  * The "config" section can you set your parameters of project.
  */
